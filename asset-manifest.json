@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/musyx/static/css/main.ddf84d68.chunk.css",
+    "main.js": "/musyx/static/js/main.f300fab6.chunk.js",
+    "main.js.map": "/musyx/static/js/main.f300fab6.chunk.js.map",
+    "runtime-main.js": "/musyx/static/js/runtime-main.735af1e9.js",
+    "runtime-main.js.map": "/musyx/static/js/runtime-main.735af1e9.js.map",
+    "static/js/2.1c8724c5.chunk.js": "/musyx/static/js/2.1c8724c5.chunk.js",
+    "static/js/2.1c8724c5.chunk.js.map": "/musyx/static/js/2.1c8724c5.chunk.js.map",
+    "index.html": "/musyx/index.html",
+    "precache-manifest.99e6f62c5f434f46667dfff9e3bfcb6b.js": "/musyx/precache-manifest.99e6f62c5f434f46667dfff9e3bfcb6b.js",
+    "service-worker.js": "/musyx/service-worker.js",
+    "static/css/main.ddf84d68.chunk.css.map": "/musyx/static/css/main.ddf84d68.chunk.css.map",
+    "static/js/2.1c8724c5.chunk.js.LICENSE.txt": "/musyx/static/js/2.1c8724c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.735af1e9.js",
+    "static/js/2.1c8724c5.chunk.js",
+    "static/css/main.ddf84d68.chunk.css",
+    "static/js/main.f300fab6.chunk.js"
+  ]
+}
