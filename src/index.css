@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-*{
-  margin:0;
-}
-body::-webkit-scrollbar {
-  display: none;
-}
-=======
 body::-webkit-scrollbar{
   display: none;
 }
@@ -14,7 +6,6 @@ body::-webkit-scrollbar{
   margin: 0;
 }
 
->>>>>>> 0892223 (new)
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -22,10 +13,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-<<<<<<< HEAD
-
-=======
->>>>>>> 0892223 (new)
 }
 
 code {

@@ -3,19 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-<<<<<<< HEAD
-import {DataLayer} from './DataLayer'//StateProvider
-import {initialState, reducer} from './reducer'
-
-ReactDOM.render(
-  <React.StrictMode>
-    <DataLayer initialState={initialState} reducer={reducer}>
-      {/**
-       * Data Layer for the Context API
-       */}
-      <App />
-    </DataLayer>
-=======
 import { StateProvider } from "./StateProvider";
 import reducer, { initialState } from "./reducer";
 
@@ -24,7 +11,6 @@ ReactDOM.render(
     <StateProvider initialState={initialState} reducer = {reducer}>
     <App />
     </StateProvider>
->>>>>>> 0892223 (new)
   </React.StrictMode>,
   document.getElementById('root')
 );
